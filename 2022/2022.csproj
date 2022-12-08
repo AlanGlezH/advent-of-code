@@ -6,6 +6,6 @@
     <RootNamespace>_2022</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_2022.Day6.First</StartupObject>
+    <StartupObject>_2022.Day7.Second</StartupObject>
   </PropertyGroup>
 </Project>
